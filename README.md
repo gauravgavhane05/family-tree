@@ -154,9 +154,9 @@ void decendents(node** root)
 
 
 /*
-mini Project Pair no.16
-Name:   Sumant Wadekar(2016BTECS00022)
-        Gaurav Gavhane(2016BTECS00071)
+mini Project 
+Name:   Sumant Wadekar
+        Gaurav Gavhane
 
 */
 #include<stdio.h>
